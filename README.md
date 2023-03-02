@@ -9,8 +9,11 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on learning frontend development.
-- 🌱 I’m currently learning React!
+- I'm Jared, a frontend developer who's making the leap into development with a focus on React and JavaScript. I love designing and developing beautiful and responsive user interfaces using HTML, CSS, and JavaScript.
+- After working with several frontend frameworks and libraries, I fell in love with React and its declarative approach to building UIs. I'm now dedicating my time to learning and mastering React, along with its ecosystem of tools and technologies such as Redux, React Native, and Next.js.
+- As a lifelong learner and passionate developer, I'm excited to contribute to open-source projects and collaborate with like-minded individuals. In my free time, you can find me tinkering with new libraries, reading about the latest web development trends, or experimenting with new design patterns.
+
+- Let's connect and build something awesome together! 💻🚀
 - 📫 How to reach me: Connect on LinkedIn or Email me! JaredKlopstein@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
